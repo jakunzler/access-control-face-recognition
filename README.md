@@ -12,13 +12,13 @@ ___
 
 ## 💻 Sobre
 
-O trabalho foi desenvolvido através de uma parceria entre a Universidade Federal de Goiás (UFG) e a Faculdade da Polícia Militar (FPM) no contexto do Centro de Excelência em Redes Inteligentes Sem Fio e Serviços Avançados (CERISE).
+Este trabalho foi desenvolvido através de uma parceria entre a Universidade Federal de Goiás (UFG) e a Faculdade da Polícia Militar (FPM) no contexto do Centro de Excelência em Redes Inteligentes Sem Fio e Serviços Avançados (CERISE), [link para repositório do GitHub](https://github.com/jakunzler/access-control-face-recognition).
 
 O [CERISE](https://website-cerise.vercel.app/index.html) apresenta sua missão de explorar e inovar no campo das redes inteligentes e serviços avançados. Destaca-se pelos seguintes eixos temáticos: localização e sensoriamento, navegação autônoma, robótica, comunicação 5G, IoT, gêmeos digitais, metaversos, realidade virtual e aumentada, pesquisa avançada, inteligência artificial e segurança cibernética. O CERISE também promove capacitação de profissionais, captação de projetos de P&D e oferece laboratórios avançados para experimentação e desenvolvimento de soluções disruptivas.
 
 O Curso Superior em Gestão da Tecnologia da Informação da FPM [GTI/FPM](https://www.faculdadepm.edu.br/curso/gestao-da-tecnologia-da-informacao) tem a finalidade de formar um indivíduo e profissional ético que, dominando a tecnologia, contribua para o desenvolvimento e qualidade de vida em sociedade, comprometido com a responsabilidade social, capaz de respeitar as diferenças individuais, produzindo e usando a tecnologia em benefício da sociedade com visão sistêmica de negócios. A FPM está situada na Rua 10, nº 923 - Setor Oeste, Goiânia - Goiás, CEP: 74120-020.
 
-![Banner GTI](/assets/gestao-da-tecnologia-da-informacao.jpg)
+[![Banner GTI](/assets/gestao-da-tecnologia-da-informacao.jpg)](https://github.com/jakunzler/access-control-face-recognition)
 
 ## ⮚ Execução e Autoria
 
